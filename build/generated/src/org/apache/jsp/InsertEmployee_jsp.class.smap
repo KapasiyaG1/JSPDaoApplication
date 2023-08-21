@@ -1,0 +1,19 @@
+SMAP
+InsertEmployee_jsp.java
+JSP
+*S JSP
+*F
++ 0 InsertEmployee.jsp
+InsertEmployee.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,88:50
+90,2:138
+92,4:141
+95,8:145
+103:153,3
+104,31:156
+5#1,38:187
+134#0,4:224
+*E

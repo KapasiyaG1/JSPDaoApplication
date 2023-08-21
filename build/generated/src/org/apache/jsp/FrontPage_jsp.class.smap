@@ -1,0 +1,14 @@
+SMAP
+FrontPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 FrontPage.jsp
+FrontPage.jsp
++ 1 header.jsp
+header.jsp
+*L
+1,9:49
+1#1,23:58
+9#0,6:80
+*E
